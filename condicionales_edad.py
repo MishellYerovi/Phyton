@@ -1,4 +1,5 @@
 
+#Mishell Yerovi
 my_age = int(input("Ingrese su edad: "))  #variable
 if my_age >=18:   #condicional
     print ("Soy mayor de edad");
